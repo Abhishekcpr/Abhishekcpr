@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://www.digitaladlectio.com/home/new-pnc-animated-banners/)](https://rishavchanda.io)
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A passionate aspiring full stack developer</h3>
 
