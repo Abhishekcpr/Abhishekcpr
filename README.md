@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-yadav-9b5636202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-yadav-9b5636202" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhishek29092" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek29092" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kode_devil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek29092" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishekyadavkr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekyadavkr1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhidcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhidcode" height="30" width="40" /></a>
 </p>
