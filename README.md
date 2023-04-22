@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **node js, react**
 
-- 👨‍💻 All of my projects are available at [https://abhishekyadavportfolio.netlify.app/](https://abhishekyadavportfolio.netlify.app/)
-
 - 💬 Ask me about **Vanilla js, C/C++**
 
 - 📫 How to reach me **abhishekyadav29ps@gmail.com**
